@@ -7,6 +7,7 @@ Brief mit 4 Cents versenden geht ganz einfach:
 
 Empfängername
 Straße + Nr.
+
 [Postleitzahl in Eckige Klammern] Stadt
 Non Domestic F.R.G
 
